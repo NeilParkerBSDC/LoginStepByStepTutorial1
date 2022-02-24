@@ -19,4 +19,21 @@ This checks the password submitted from the form on ServerSide1.html. If it is t
 
 The "secure" desitniation page
 
-## 
+## Diagram
+```
++------------------+
+| ServerSide1.html | -------------
++------------------+             |
+         |                      V
+         |           +-------------------------+                          
+         |           | ServerSideValidator.php |
+         |           |                         |
+         No ---------|Submitted PW = Stored PW?|
+                     +-------------------------+                               
+                                 |
+                                Yes
++------------------+             |     
+| ServerSide2.html | <------------
++------------------+
+
+```
