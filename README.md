@@ -22,7 +22,7 @@ The "secure" desitniation page
 ## Diagram
 ```
 +------------------+
-| ServerSide1.html | -------------
+| ServerSide1.html | --Submit----+
 +------------------+             |
          ^                       v
          |           +-------------------------+                          
@@ -33,7 +33,7 @@ The "secure" desitniation page
                                  |
                                 Yes
 +------------------+             |     
-| ServerSide2.html | <------------
+| ServerSide2.html | <-----------+
 +------------------+
 
 ```
