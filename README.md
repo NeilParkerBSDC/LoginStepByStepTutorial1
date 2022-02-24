@@ -24,7 +24,7 @@ The "secure" desitniation page
 +------------------+
 | ServerSide1.html | -------------
 +------------------+             |
-         |                      V
+         ^                       v
          |           +-------------------------+                          
          |           | ServerSideValidator.php |
          |           |                         |
