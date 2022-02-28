@@ -5,7 +5,7 @@ It consists of the following files:
 
 ## ClientSide1.html
 
-This file shows the basic **if statement** used for a login. On this file it is written in JavaScript and runs on the client machine. As such it is in now way secure (the user can just view the sources code and so get the paswword!) however it emonstrates the coding structure we will use in PHP
+This file shows the basic ```if statement``` used for a login. On this file it is written in JavaScript and runs on the client machine. As such it is in now way secure (the user can just view the sources code and so get the paswword!) however it emonstrates the coding structure we will use in PHP
 
 ## ServerSide1.html
 
