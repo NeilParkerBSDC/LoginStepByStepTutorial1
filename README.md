@@ -37,8 +37,9 @@ The "secure" destination page
 +------------------+
 
 ```
-<img src="https://neilparkersandbox1.000webhostapp.com/Images/Sitemap.png">
 <!--
+<img src="https://neilparkersandbox1.000webhostapp.com/Images/Sitemap.png">
+
 
 ![sitemap diagram]((https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1/blob/main/Sitemap.png?raw=true)-->
 
