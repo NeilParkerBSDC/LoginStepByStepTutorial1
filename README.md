@@ -37,7 +37,5 @@ The "secure" destination page
 +------------------+
 
 ```
-```Mermaid
 
-```
 
