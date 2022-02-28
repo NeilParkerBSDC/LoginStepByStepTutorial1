@@ -38,8 +38,7 @@ The "secure" destination page
 
 ```
 <!-- This is a comment -->
-```
-mermaid
+```mermaid
 graph TD
    A(Coffee machine <br>not working) --> B{Machine has power?}
    B -->|No| H(Plug in and turn on)
