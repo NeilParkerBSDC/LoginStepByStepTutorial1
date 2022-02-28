@@ -13,7 +13,7 @@ This file creates a form to be submited to the ```ServerSideValidator.php``` fil
 
 ## ServerSideValidator.php
 
-This checks the password submitted from the form on ServerSide1.html. If it is the same as the stored password then it send you on to the secure page (```ServerSide2.html```), otherwise it sends you back to the login page (ServerSide1.html)
+This checks the password submitted from the form on ServerSide1.html. If it is the same as the stored password then it send you on to the secure page (```ServerSide2.html```), otherwise it sends you back to the login page (```ServerSide1.html```)
 
 ## ServerSide2.html
 
