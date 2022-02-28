@@ -9,7 +9,7 @@ This file shows the basic **if statement** used for a login. On this file it is 
 
 ## ServerSide1.html
 
-This file creates a form to be submited to the '''ServerSideValidator.php''' file which checks the password
+This file creates a form to be submited to the ```ServerSideValidator.php``` file which checks the password
 
 ## ServerSideValidator.php
 
